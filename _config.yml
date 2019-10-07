@@ -14,7 +14,7 @@ description: 刘谬个人站
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: http://img03.sogoucdn.com/app/a/100520146/d79f34ed27531e84bc164472ad02e8c3
+avatar: http://img03.sogoucdn.com/app/a/100520146/880fc33fac1dca4b851a0b77b4fcfb9f
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: http://img01.sogoucdn.com/app/a/100520146/69bd6a3294e2dd57de4b324de01c270b
@@ -39,10 +39,10 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: https://weibo.com/3640087113/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
+  email: alkalemia@yeah.net
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
@@ -56,7 +56,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: μ
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
