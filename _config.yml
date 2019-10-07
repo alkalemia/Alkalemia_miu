@@ -5,19 +5,19 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: Miu_ΦωΦ
 # 描述/签名
-description: 一个可以fork的博客
+description: 刘谬个人站
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: http://img03.sogoucdn.com/app/a/100520146/d79f34ed27531e84bc164472ad02e8c3
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: http://img01.sogoucdn.com/app/a/100520146/69bd6a3294e2dd57de4b324de01c270b
 
 
 # 菜单中的按钮
