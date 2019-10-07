@@ -5,7 +5,7 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: Miu_ΦωΦ
+name: 刘谬
 # 描述/签名
 description: 刘谬个人站
 
@@ -22,17 +22,17 @@ favicon: http://img01.sogoucdn.com/app/a/100520146/69bd6a3294e2dd57de4b324de01c2
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
+  - name: 实验室
     url: /
-  - name: 关于
+  - name: 计划介绍
     url: /about
-  - name: 归档
+  - name: 仿生人名录
     url: /archive
-  - name: 标签
+  - name: 型号探寻
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 10
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
